@@ -1,0 +1,20 @@
+ Instructions on how to run implementation:
+
+1.open all the required codes and folders.
+2.Server_code.py and Client_code.py are server and client function codes,first compile Server_code.py on an python working platform.
+3.next run the Client_code.py code and we can see register and login options.
+4.you are a user and so you should register first click 1 for registration.
+5.you need to create your userid and password after giving your name to the server.
+6.if you use the same login credentias for registration which are already used to login then it shows an error because they are already stored in the admin folder in the root.
+7.you have to use the new credentials to login now
+8.again you have to run the Client_code.py and now you can login successfully if the login credentials matched which are stored.
+9.or else it shows that the credentials are not acceptable.
+10. if logged in then you need to select 1 this is a command that asks you to create a folder.
+11.if you select 2 then it asks you to select the name of the folder in which you need to save the message if there is no folder name that exists then it shows an error.
+12.if 3 is selected then you need to give the name of the folder so that first 100 bytes are printed.
+13.if you select 4 as the command then it prints all the list of the folders available with it's name,time of creation,size etc.
+14.if you select 5 then you can change a folder's name that the path will be change to the new folder.
+15.if you select 6 then it shows all the list of the commands.
+16.if you select 0 then you will logout of the service and storing the changes in the root.
+
+ 
